@@ -18,6 +18,7 @@
   <img width="7%" alt="Go" src="https://raw.githubusercontent.com/wndelix/ascii-icons/main/icons/go.png">
   <img width="7%" alt="Python" src="https://raw.githubusercontent.com/wndelix/ascii-icons/main/icons/python.png">
   <img width="7%" alt="HTML5" src="https://raw.githubusercontent.com/wndelix/ascii-icons/main/icons/html5.png">
+  <img width="7%" alt="Java" src="https://raw.githubusercontent.com/wndelix/ascii-icons/main/icons/java.png">
 </p>
 
 
