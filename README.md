@@ -2,7 +2,7 @@
 
 ## Hi, I'm Wendel, a Developer from Brazil.
 
-<img width="35%" align="right" alt="Lain" src="https://raw.githubusercontent.com/wndelix/wndelix/main/images/lain.gif">
+<img width="30%" align="right" alt="Lain" src="https://raw.githubusercontent.com/wndelix/wndelix/main/images/lain.gif">
 
 **Talking about Personal Stuffs:**
 
