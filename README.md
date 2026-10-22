@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning C, Go, Java and HTML5;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: wende08@proton.me;
-- 🎶 Music style: 70s/80s Rock & Soft Rock | Fav Band: The Alan Parsons Project. I love Century
+- 🎶 Music style: Rock | Fav Band: Red Hot Chili Peppers
 - 🎮 Gaming: Chess and Solitaire
