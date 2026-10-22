@@ -11,4 +11,4 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: wende08@proton.me;
 - 🎶 Music style: 70s/80s Rock & Soft Rock | Fav Band: The Alan Parsons Project. I love Century
-- 🎮 Gaming: Forza Horizon and Pro Evolution Soccer
+- 🎮 Gaming: Chess and Solitaire
