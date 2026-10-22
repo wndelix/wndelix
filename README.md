@@ -7,7 +7,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on nothing;
-- 🌱 I’m currently learning C, Go, Java and HTML5;
+- 🌱 I’m currently learning Java, HTML5 and CSS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: wende08@proton.me;
 - 🎶 Music style: Rock | Fav Band: Red Hot Chili Peppers
